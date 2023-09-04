@@ -1,0 +1,29 @@
+.container{
+    margin-left:0px;
+}
+a{
+    
+    background: url(../Javascipt/list-icon.png) no-repeat 5px 4px;
+    color: #000;
+    font-size: 15px;
+    padding: 2px 23px;
+    margin: 0px 0px 0px 5px;
+    list-style: none;
+    display: inline-block;
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+}
+.heading1{
+    background: yellow;
+    padding:15px 0px 15px 0px;
+}
+.heading{
+    display: block;
+    list-style: disc;
+    
+}
+.img{
+    background: url(../Javascipt/icon-bullet.png);
+}
